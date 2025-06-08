@@ -1,0 +1,5 @@
+Landing Page - Happy 17th Birthday & Happy 1 Month Anniversary (with pink background, hello kitty all around, and animations)
+-> scroll down and then a sort of letter from me to her
+-> scroll down and a timeline that zigzags like a river(i attached reference for it) with the circles representing
+ hello kitty, the timeline doesnt end it goes down to the bottom. on the timeline there are point which are of our
+ different dates and when clicked on open a gallery of our pictures from that day
